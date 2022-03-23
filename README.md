@@ -1,4 +1,5 @@
 # RiegoAutomático-PyC
+## Ejemplo
 
 1. Detalles del proyecto
     En este proyecto, desde el IES Sierra de las Villas, nos han propuesto la automatización de su huerto mediante un sistema de riego.
