@@ -1,1 +1,1 @@
-# RiegoAutom-tico-PyC
+# RiegoAutomático-PyC
