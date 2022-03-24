@@ -12,6 +12,7 @@
         · Lectura de datos de la estación metereológica.
 
 3. Búsqueda de información
+4. Busqueda de una electrovalvula compatible con raspberry pi 4
 
 ------------------------------------------------------------------------------------------------------
 
