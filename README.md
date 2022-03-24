@@ -23,5 +23,5 @@ Lista de tareas
 - [ ] Programación del microcontrolador/microprocesador.
 
 
-Enlaces de interes:
+Enlaces de interés:
 - https://www.askix.com/sistema-de-riego-controlado-por-frambuesa-pi.html
