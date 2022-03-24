@@ -11,12 +11,13 @@
     - Automatización respecto de las condiciones climatológicas.
         · Lectura de datos de la estación metereológica.
 
-3. Búsqueda de información
-4. Busqueda de una electrovalvula compatible con raspberry pi 4
+3. Búsqueda de información.
+
+4. Busqueda de una electroválvula compatible con raspberry pi 4.
 
 ------------------------------------------------------------------------------------------------------
 
 Lista de tareas
-- [ ] Hacer un croquis para conocer, gráfica y simplificadamente, el terreno.
+- [x] Hacer un croquis para conocer, gráfica y simplificadamente, el terreno.
 - [ ] Búsqueda de información sobre los elementos necesarios para el riego automático.
 - [ ] Programación del microcontrolador/microprocesador.
