@@ -11,11 +11,18 @@
     - Automatización respecto de las condiciones climatológicas.
         · Lectura de datos de la estación metereológica.
 
-3. Búsqueda de información
+3. Búsqueda de información.
+
+4. Búsqueda de una electroválvula compatible con Raspberry pi 4.
 
 ------------------------------------------------------------------------------------------------------
 
 Lista de tareas
-- [ ] Hacer un croquis para conocer, gráfica y simplificadamente, el terreno.
+- [x] Hacer un croquis para conocer, gráfica y simplificadamente, el terreno.
 - [ ] Búsqueda de información sobre los elementos necesarios para el riego automático.
 - [ ] Programación del microcontrolador/microprocesador.
+
+
+Enlaces de interes:
+- https://www.askix.com/sistema-de-riego-controlado-por-frambuesa-pi.html
+- https://ecuarobot.com/2020/01/10/controlador-de-riego-raspberry-pi/
