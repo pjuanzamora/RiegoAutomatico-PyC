@@ -21,3 +21,7 @@ Lista de tareas
 - [x] Hacer un croquis para conocer, gráfica y simplificadamente, el terreno.
 - [ ] Búsqueda de información sobre los elementos necesarios para el riego automático.
 - [ ] Programación del microcontrolador/microprocesador.
+
+
+Enlaces de interes:
+- https://www.askix.com/sistema-de-riego-controlado-por-frambuesa-pi.html
