@@ -13,7 +13,7 @@
 
 3. Búsqueda de información.
 
-4. Busqueda de una electroválvula compatible con raspberry pi 4.
+4. Búsqueda de una electroválvula compatible con Raspberry pi 4.
 
 ------------------------------------------------------------------------------------------------------
 
