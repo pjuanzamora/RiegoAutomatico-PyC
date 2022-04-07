@@ -27,3 +27,4 @@ Enlaces de interes:
 - https://www.askix.com/sistema-de-riego-controlado-por-frambuesa-pi.html
 - https://ecuarobot.com/2020/01/10/controlador-de-riego-raspberry-pi/
 - https://www.home-assistant.io/
+- https://youtu.be/PZOvLbRdgNM (Vídeo explicativo para poder encender un LED con una Raspberry Pi)
