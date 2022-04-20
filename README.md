@@ -28,3 +28,4 @@ Enlaces de interes:
 - https://ecuarobot.com/2020/01/10/controlador-de-riego-raspberry-pi/
 - https://www.home-assistant.io/
 - https://youtu.be/PZOvLbRdgNM (Vídeo explicativo para poder encender un LED con una Raspberry Pi)
+- https://www.youtube.com/watch?v=xlzXTOuc_I8 (Control de pines con Home Assistant)
