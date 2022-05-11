@@ -16,6 +16,10 @@
 
 4. Búsqueda de una electroválvula compatible con Raspberry pi 4.
 
+5. Instalación Home Assistant y configuración.
+
+6. Puesta en funcionamiento del sistema de riego automático.
+
 ------------------------------------------------------------------------------------------------------
 
 Lista de tareas
