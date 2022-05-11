@@ -10,6 +10,7 @@
     - Visualización de datos en una página web.
     - Automatización respecto de las condiciones climatológicas.
         · Lectura de datos de la estación metereológica.
+        . Mostrar datos.
 
 3. Búsqueda de información.
 
@@ -19,8 +20,14 @@
 
 Lista de tareas
 - [x] Hacer un croquis para conocer, gráfica y simplificadamente, el terreno.
-- [ ] Búsqueda de información sobre los elementos necesarios para el riego automático.
-- [ ] Programación del microcontrolador/microprocesador.
+- [x] Búsqueda de información sobre los elementos necesarios para el riego automático.
+- [x] Programación del microcontrolador/microprocesador.
+- [x] Instalación de Home Assistant.
+- [x] Configuración de Raspberry Pi con relé y pines GPio.
+- [x] Mostrar información de la estación metereológica.
+- [ ] Crear bot de telegram para recibir notificaciones al enceder o apagar el riego.
+- [ ] Crear las automatizaciones necesarias para el riego del verano del huerto.
+- [ ] Documentación del proyecto.
 
 
 Enlaces de interes:
