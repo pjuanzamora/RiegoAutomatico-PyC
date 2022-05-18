@@ -29,8 +29,8 @@ Lista de tareas
 - [x] Instalación de Home Assistant.
 - [x] Configuración de Raspberry Pi con relé y pines GPio.
 - [x] Mostrar información de la estación metereológica.
-- [ ] Crear bot de telegram para recibir notificaciones al enceder o apagar el riego.
-- [ ] Crear las automatizaciones necesarias para el riego del verano del huerto.
+- [x] Crear bot de telegram para recibir notificaciones al enceder o apagar el riego.
+- [x] Crear las automatizaciones necesarias para el riego del verano del huerto.
 - [ ] Documentación del proyecto.
 
 
