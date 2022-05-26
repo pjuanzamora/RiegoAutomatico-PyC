@@ -1,0 +1,79 @@
+
+# Loads default set of integrations. Do not remove.
+default_config:
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+
+  
+#Configuración GPIO 23 - PIN 16
+
+binary_sensor:
+  - platform: rpi_gpio
+    sensors:
+      - port: 23
+        name: "Bomba Riego"
+        invert_logic: true
+        
+switch:
+  - platform: rpi_gpio
+    switches:
+      - port: 23
+        name: "Bomba Riego"
+        invert_logic: true
+
+#Fin configuración GPIO
+
+#Telegram
+
+telegram_bot:
+  - platform: polling
+    api_key: API-KEY
+    allowed_chat_ids:
+      - -734413849 # example: 123456789 for the chat_id of a user
+
+# Example configuration.yaml entry for the notifier
+notify:
+  - platform: telegram
+    name: NOTIFIER_NAME
+    chat_id: -734413849
+
+
+
+# Fin telegram
+
+
+
+#Estación 
+
+sensor:
+  - platform: wundergroundpws
+    api_key: API-KEY
+    pws_id: IDE-STATION
+    numeric_precision: none
+    monitored_conditions:
+      - temp
+      - precipRate
+      - precipTotal
+
+
+  - platform: systemmonitor
+    resources:
+     - type: memory_free
+     - type: memory_use
+     - type: processor_use
+     - type: processor_temperature
+
+  
+# File editor configuración - Cambiar IP final
+panel_iframe:
+  configurator:
+    title: File Editor
+    icon: mdi:wrench
+    url: http://192.168.18.15:3218
+
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
